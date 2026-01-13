@@ -3,8 +3,7 @@
   "updated_at": 1736784000,
   
   "llm_api_url": "https://ark.cn-beijing.volces.com/api/v3",
-  "llm_api_key": "14cb5dce-adfe-4276-8deb-04ec92dc39a3
-",
+  "llm_api_key": "14cb5dce-adfe-4276-8deb-04ec92dc39a3",
   "llm_model": "doubao-1-5-pro-32k-250115",
   
   "image_api_url": "https://api.wuyinkeji.com/api/img/nanoBanana-pro",
@@ -13,4 +12,5 @@
   
   "announcement": ""
 }
+
 
