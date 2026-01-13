@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "updated_at": 1736784000,
+  
+  "llm_api_url": "https://ark.cn-beijing.volces.com/api/v3",
+  "llm_api_key": "your-llm-api-key-here",
+  "llm_model": "doubao-1-5-pro-32k-250115",
+  
+  "image_api_url": "https://api.wuyinkeji.com/api/img/nanoBanana-pro",
+  "image_api_key": "your-image-api-key-here",
+  "image_query_url": "https://api.wuyinkeji.com/api/img/drawDetail",
+  
+  "announcement": ""
+}
