@@ -1,13 +1,15 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "updated_at": 1736784000,
   "llm_api_url": "https://ark.cn-beijing.volces.com/api/v3",
   "llm_api_key": "14cb5dce-adfe-4276-8deb-04ec92dc39a3",
   "llm_model": "doubao-1-5-pro-32k-250115",
   "image_api_type": "google_imagen",
   "image_api_key": "AIzaSyATeZhimxaqGbuT68mdnrpya4cNKRqUO8s",
-  "google_imagen_model": "imagen-3.0-generate-002",
+  "google_imagen_model": "gemini-3-pro-image-preview",
   "image_api_url": "",
   "image_query_url": "",
   "announcement": ""
 }
+
+
